@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+*.local
+
+# Test artifacts
+.pytest_cache/
+test-results.json
+
+# Agent output
+analysis-report-*.md
+modification-log.txt
+
+# IDE
+.idea/
+.vscode/
+*.swp
